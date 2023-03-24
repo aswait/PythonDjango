@@ -1,0 +1,30 @@
+{% extends 'shoppapp/base.html' %}
+
+{% block title %}
+    Orders list
+{% endblock %}
+
+{% block body %}
+    <h1>Orders:</h1>
+    {% if orders %}
+        <div>
+        {% for order in orders %}
+            <div>
+                <p>Order by {% firstof order.user.first_nmae order.user.username %}</p>
+                <p>Promocode <code>{{ order.promocode }}</code></p>
+                <p>Delivery address: {{ order.delivery_address }}</p>
+                <div>
+                    <ul>
+                        {% for product in order.products.all %}
+                            <li>{{ product.name }} for ${{ product.price }}</li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
+        {% endfor %}
+        </div>
+    {% else %}
+        <h3>No orders yet</h3>
+    {% endif %}
+    <div></div>
+{% endblock %}
