@@ -17,6 +17,7 @@ from django.contrib import admin
 from django.urls import path, include
 
 urlpatterns = [
+    path('req/', include('requestdataapp.urls')),
     path('shop/', include('shopapp.urls')),
     path('admin/', admin.site.urls),
 ]
