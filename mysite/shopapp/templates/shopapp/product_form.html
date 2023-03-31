@@ -1,4 +1,4 @@
-{% extends "shoppapp/base.html" %}
+{% extends "shopapp/base.html" %}
 
 {% block title %}
     Create product
@@ -6,16 +6,15 @@
 
 
 {% block body %}
-    <h1>Create a new product</h1>
+    <h1>Create product</h1>
     <div>
         <form method="post">
             {% csrf_token %}
-
             {{ form.as_p }}
-
             <button type="submit">Create</button>
         </form>
     </div>
+
     <div>
         <a href="{% url 'shopapp:products_list' %}">
             Back to products list
