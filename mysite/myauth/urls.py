@@ -8,7 +8,8 @@ from .views import (
     logout_view,
     MyLogoutView,
     AboutMeView,
-    RegisterView
+    RegisterView,
+    FooBarView
 )
 
 
@@ -33,4 +34,6 @@ urlpatterns = [
 
     path('session/get', get_session_view, name="session-get"),
     path('session/set', set_session_view, name="session-set"),
+
+    path('foo-bar/', FooBarView.as_view(), name="foo-bar"),
 ]
