@@ -8,7 +8,7 @@
 {% block body %}
     <h1>Create product</h1>
     <div>
-        <form method="post">
+        <form method="post" enctype="multipart/form-data">
             {% csrf_token %}
             {{ form.as_p }}
             <button type="submit">Create</button>

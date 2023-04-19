@@ -13,6 +13,10 @@
                 <p><a href="{% url 'shopapp:product_details' pk=product.pk %}">Name: {{ product.name }}</a></p>
                 <p>Price: {{ product.price }}</p>
                 <p>Discount: {% firstof product.discount "no discount" %}</p>
+
+                {% if product.preview %}
+                    <img src="{{ product.preview.url }}" alt="{{ product.preview.name }}">
+                {% endif %}
             </div>
 
         {% endfor %}

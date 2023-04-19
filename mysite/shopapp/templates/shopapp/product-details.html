@@ -9,10 +9,25 @@
     <h1>Product <strong>{{ product.name }}</strong></h1>
 
     <div>
-        <div>Description:  <em>{{ product.description }}</em></div>
+        <div>Description: <em>{{ product.description }}</em></div>
         <div>Price: {{ product.price }}</div>
         <div>Discount: {{ product.discount }}</div>
         <div>Archived: {{ product.archived }}</div>
+
+        {% if product.preview %}
+            <img src="{{ product.preview.url }}" alt="{{ product.preview.name }}">
+        {% endif %}
+
+        <h3>Images</h3>
+        <div>
+            {% for image in product.images.all %}
+                <img src="{{ image.image.url }}" alt="{{ image.image.name }}">
+                <div>{{ image.descrition }}</div>
+            {% empty %}
+                <div>No images uploaded yet</div>
+            {% endfor %}
+
+        </div>
     </div>
 
     <div>
