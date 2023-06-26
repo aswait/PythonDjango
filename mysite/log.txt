@@ -1,0 +1,94 @@
+2023-06-25 16:36:51,505 [DEBUG] shopapp.views: Products for shop index: [('laptop', 1999), ('desktop', 2999), ('smartphone', 999)]
+2023-06-25 16:36:51,505 [INFO] shopapp.views: Rendering shop index
+2023-06-25 16:37:52,516 [INFO] django.utils.autoreload: /home/newuser/PycharmProjects/PythonDjango/mysite/mysite/settings.py changed, reloading.
+2023-06-25 16:37:52,852 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-25 16:51:28,083 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-25 16:51:37,360 [INFO] django.utils.autoreload: /home/newuser/PycharmProjects/PythonDjango/mysite/mysite/settings.py changed, reloading.
+2023-06-25 16:51:37,597 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-25 16:51:56,159 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-26 11:32:40,737 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-26 11:32:52,339 [WARNING] django.request: Not Found: /
+2023-06-26 11:32:52,521 [WARNING] django.request: Not Found: /favicon.ico
+2023-06-26 11:33:58,016 [INFO] django.utils.autoreload: /home/newuser/PycharmProjects/PythonDjango/mysite/shopapp/views.py changed, reloading.
+2023-06-26 11:33:58,307 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-26 11:34:02,615 [INFO] django.utils.autoreload: /home/newuser/PycharmProjects/PythonDjango/mysite/shopapp/views.py changed, reloading.
+2023-06-26 11:34:02,978 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-26 11:34:08,300 [INFO] django.utils.autoreload: /home/newuser/PycharmProjects/PythonDjango/mysite/shopapp/views.py changed, reloading.
+2023-06-26 11:34:08,576 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-26 11:34:10,721 [INFO] django.utils.autoreload: /home/newuser/PycharmProjects/PythonDjango/mysite/shopapp/views.py changed, reloading.
+2023-06-26 11:34:11,065 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-26 11:34:16,373 [INFO] django.utils.autoreload: /home/newuser/PycharmProjects/PythonDjango/mysite/shopapp/views.py changed, reloading.
+2023-06-26 11:34:16,717 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-26 11:34:23,064 [INFO] django.utils.autoreload: /home/newuser/PycharmProjects/PythonDjango/mysite/shopapp/views.py changed, reloading.
+2023-06-26 11:34:23,318 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-26 11:34:34,667 [INFO] django.utils.autoreload: /home/newuser/PycharmProjects/PythonDjango/mysite/shopapp/views.py changed, reloading.
+2023-06-26 11:34:34,946 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-26 11:34:57,456 [INFO] django.utils.autoreload: /home/newuser/PycharmProjects/PythonDjango/mysite/shopapp/views.py changed, reloading.
+2023-06-26 11:34:57,707 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-26 11:35:08,107 [INFO] django.utils.autoreload: /home/newuser/PycharmProjects/PythonDjango/mysite/shopapp/views.py changed, reloading.
+2023-06-26 11:35:08,404 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-26 11:35:15,462 [ERROR] django.request: Internal Server Error: /en/shop/products/export/
+Traceback (most recent call last):
+  File "/home/newuser/PycharmProjects/PythonDjango/venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 56, in inner
+    response = get_response(request)
+  File "/home/newuser/PycharmProjects/PythonDjango/venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/newuser/PycharmProjects/PythonDjango/venv/lib/python3.10/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/newuser/PycharmProjects/PythonDjango/venv/lib/python3.10/site-packages/django/views/generic/base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/newuser/PycharmProjects/PythonDjango/mysite/shopapp/views.py", line 192, in get
+    name = elem["neam"]
+KeyError: 'neam'
+2023-06-26 11:43:47,792 [INFO] django.utils.autoreload: /home/newuser/PycharmProjects/PythonDjango/mysite/mysite/settings.py changed, reloading.
+2023-06-26 11:43:48,165 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-26 11:43:54,499 [INFO] django.utils.autoreload: /home/newuser/PycharmProjects/PythonDjango/mysite/mysite/settings.py changed, reloading.
+2023-06-26 11:43:54,871 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-26 11:44:05,374 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-26 11:44:12,747 [DEBUG] urllib3.connectionpool: Starting new HTTPS connection (1): o4505425634328576.ingest.sentry.io:443
+2023-06-26 11:44:13,113 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-26 11:44:13,194 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-26 11:44:13,275 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-26 11:44:13,356 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-26 11:44:13,440 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-26 11:44:13,521 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-26 11:44:14,851 [ERROR] django.request: Internal Server Error: /en/shop/products/export/
+Traceback (most recent call last):
+  File "/home/newuser/PycharmProjects/PythonDjango/venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 56, in inner
+    response = get_response(request)
+  File "/home/newuser/PycharmProjects/PythonDjango/venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/newuser/PycharmProjects/PythonDjango/venv/lib/python3.10/site-packages/sentry_sdk/integrations/django/views.py", line 84, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+  File "/home/newuser/PycharmProjects/PythonDjango/venv/lib/python3.10/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/newuser/PycharmProjects/PythonDjango/venv/lib/python3.10/site-packages/django/views/generic/base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/newuser/PycharmProjects/PythonDjango/mysite/shopapp/views.py", line 192, in get
+    name = elem["neam"]
+KeyError: 'neam'
+2023-06-26 11:44:14,884 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-26 11:44:14,967 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-26 11:44:27,862 [ERROR] django.request: Internal Server Error: /en/shop/products/export/
+Traceback (most recent call last):
+  File "/home/newuser/PycharmProjects/PythonDjango/venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 56, in inner
+    response = get_response(request)
+  File "/home/newuser/PycharmProjects/PythonDjango/venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/newuser/PycharmProjects/PythonDjango/venv/lib/python3.10/site-packages/sentry_sdk/integrations/django/views.py", line 84, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+  File "/home/newuser/PycharmProjects/PythonDjango/venv/lib/python3.10/site-packages/django/views/generic/base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/newuser/PycharmProjects/PythonDjango/venv/lib/python3.10/site-packages/django/views/generic/base.py", line 142, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/newuser/PycharmProjects/PythonDjango/mysite/shopapp/views.py", line 192, in get
+    name = elem["neam"]
+KeyError: 'neam'
+2023-06-26 11:44:27,898 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-26 11:44:27,980 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-26 11:45:12,831 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-26 11:45:34,838 [INFO] django.utils.autoreload: /home/newuser/PycharmProjects/PythonDjango/mysite/shopapp/views.py changed, reloading.
+2023-06-26 11:45:35,241 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-26 11:45:40,544 [DEBUG] urllib3.connectionpool: Starting new HTTPS connection (1): o4505425634328576.ingest.sentry.io:443
+2023-06-26 11:45:40,809 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-26 11:46:40,631 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
