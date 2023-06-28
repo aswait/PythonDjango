@@ -12,6 +12,8 @@ from django.contrib.auth.models import Group
 from django.shortcuts import render, redirect, reverse, get_object_or_404
 from django.http import HttpResponse, HttpRequest, HttpResponseRedirect, JsonResponse
 from django.urls import reverse_lazy
+from django.utils.decorators import method_decorator
+from django.views.decorators.cache import cache_page
 from django.views import View
 from django.contrib.auth.mixins import LoginRequiredMixin, PermissionRequiredMixin, UserPassesTestMixin
 from django.views.generic import TemplateView, ListView, DetailView, CreateView, UpdateView, DeleteView
@@ -75,6 +77,11 @@ class ProductViewSet(ModelViewSet):
     def retrieve(self, *args, **kwargs):
         return super().retrieve(*args, **kwargs)
 
+    @method_decorator(cache_page(60 * 2))
+    def list(self, *args, **kwargs):
+        print("hello products list")
+        return super().list(*args, **kwargs)
+
     @action(methods=["get"], detail=False)
     def download_csv(self, request: Request):
 
@@ -127,8 +134,7 @@ class ShopIndexView(View):
             "products": products,
             "items": 2,
         }
-        log.debug("Products for shop index: %s", products)
-        log.info("Rendering shop index")
+        print("shop index context", context)
         return render(request, "shopapp/shop-index.html", context=context)
 
 

@@ -1,3 +1,4 @@
+{% load cache %}
 
 <!DOCTYPE html>
 <html lang="en">
@@ -38,5 +39,11 @@
         You have {{ items }} cherr{{ items|pluralize:"y,ies" }}
     </strong>
 </div>
+
+    {% cache 100 lorem %}
+        <div>
+            {% lorem 3 p random %}
+        </div>
+    {% endcache %}
 </body>
 </html>

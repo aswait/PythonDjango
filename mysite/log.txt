@@ -842,3 +842,359 @@ django.template.exceptions.TemplateDoesNotExist: sitemap.xml
 2023-06-27 08:47:38,905 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
 2023-06-27 08:47:46,622 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
 2023-06-27 08:48:38,929 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-27 23:55:47,131 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-27 23:55:58,398 [DEBUG] urllib3.connectionpool: Starting new HTTPS connection (1): o4505425634328576.ingest.sentry.io:443
+2023-06-27 23:55:58,406 [DEBUG] shopapp.views: Products for shop index: [('laptop', 1999), ('desktop', 2999), ('smartphone', 999)]
+2023-06-27 23:55:58,406 [INFO] shopapp.views: Rendering shop index
+2023-06-27 23:55:58,694 [WARNING] django.request: Not Found: /favicon.ico
+2023-06-27 23:55:58,903 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-27 23:55:58,995 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-27 23:55:59,082 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-27 23:55:59,166 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-27 23:55:59,256 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-27 23:55:59,346 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-27 23:55:59,435 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-27 23:56:23,921 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-27 23:56:24,283 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-27 23:56:24,572 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-27 23:56:24,735 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-27 23:56:24,872 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-27 23:56:40,501 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-27 23:56:40,753 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-27 23:56:41,193 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-27 23:56:41,391 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-27 23:56:41,527 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-27 23:56:41,682 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-27 23:56:41,848 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-27 23:56:58,541 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-27 23:57:44,832 [WARNING] django.request: Not Found: /shop/products/latest/feed/
+2023-06-27 23:57:44,922 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-27 23:57:45,010 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-27 23:57:58,543 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-27 23:58:40,935 [INFO] django.utils.autoreload: /home/newuser/PycharmProjects/PythonDjango/mysite/mysite/settings.py changed, reloading.
+2023-06-27 23:58:41,355 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-27 23:58:49,779 [INFO] django.utils.autoreload: /home/newuser/PycharmProjects/PythonDjango/mysite/mysite/settings.py changed, reloading.
+2023-06-27 23:58:50,180 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-27 23:59:36,044 [INFO] django.utils.autoreload: /home/newuser/PycharmProjects/PythonDjango/mysite/myauth/views.py changed, reloading.
+2023-06-27 23:59:36,463 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-27 23:59:47,903 [INFO] django.utils.autoreload: /home/newuser/PycharmProjects/PythonDjango/mysite/myauth/views.py changed, reloading.
+2023-06-27 23:59:48,294 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-27 23:59:51,686 [INFO] django.utils.autoreload: /home/newuser/PycharmProjects/PythonDjango/mysite/myauth/views.py changed, reloading.
+2023-06-27 23:59:52,101 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-27 23:59:54,441 [INFO] django.utils.autoreload: /home/newuser/PycharmProjects/PythonDjango/mysite/myauth/views.py changed, reloading.
+2023-06-27 23:59:54,867 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-28 00:00:14,740 [WARNING] django.request: Not Found: /myauth/get-cookie
+2023-06-28 00:00:14,743 [DEBUG] urllib3.connectionpool: Starting new HTTPS connection (1): o4505425634328576.ingest.sentry.io:443
+2023-06-28 00:00:14,965 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:00:28,465 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:00:28,548 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:00:30,580 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:00:31,015 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:00:31,330 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:00:31,649 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:00:31,961 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:00:32,197 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:00:32,340 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:00:32,497 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:00:32,649 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:00:32,806 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:00:32,944 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:00:33,118 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:00:33,248 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:00:33,405 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:00:33,592 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:00:50,303 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:00:50,449 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:00:50,631 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:00:50,775 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:00:50,896 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:00:51,053 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:00:51,203 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:00:51,343 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:01:11,332 [INFO] django.utils.autoreload: /home/newuser/PycharmProjects/PythonDjango/mysite/myauth/views.py changed, reloading.
+2023-06-28 00:01:11,413 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:01:11,874 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-28 00:01:12,089 [DEBUG] urllib3.connectionpool: Starting new HTTPS connection (1): o4505425634328576.ingest.sentry.io:443
+2023-06-28 00:01:12,387 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:01:24,375 [INFO] django.utils.autoreload: /home/newuser/PycharmProjects/PythonDjango/mysite/myauth/views.py changed, reloading.
+2023-06-28 00:01:24,742 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-28 00:01:32,185 [INFO] django.utils.autoreload: /home/newuser/PycharmProjects/PythonDjango/mysite/myauth/views.py changed, reloading.
+2023-06-28 00:01:32,630 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-28 00:01:45,095 [INFO] django.utils.autoreload: /home/newuser/PycharmProjects/PythonDjango/mysite/myauth/views.py changed, reloading.
+2023-06-28 00:01:45,509 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-28 00:01:45,718 [DEBUG] urllib3.connectionpool: Starting new HTTPS connection (1): o4505425634328576.ingest.sentry.io:443
+2023-06-28 00:01:45,950 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:01:57,970 [INFO] django.utils.autoreload: /home/newuser/PycharmProjects/PythonDjango/mysite/myauth/views.py changed, reloading.
+2023-06-28 00:01:58,332 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-28 00:02:54,969 [DEBUG] urllib3.connectionpool: Starting new HTTPS connection (1): o4505425634328576.ingest.sentry.io:443
+2023-06-28 00:02:55,185 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:02:55,426 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:02:55,804 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:02:56,189 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:03:53,549 [INFO] django.utils.autoreload: /home/newuser/PycharmProjects/PythonDjango/mysite/shopapp/urls.py changed, reloading.
+2023-06-28 00:03:53,628 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:03:54,055 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-28 00:03:54,275 [DEBUG] urllib3.connectionpool: Starting new HTTPS connection (1): o4505425634328576.ingest.sentry.io:443
+2023-06-28 00:03:54,504 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:03:59,393 [INFO] django.utils.autoreload: /home/newuser/PycharmProjects/PythonDjango/mysite/shopapp/urls.py changed, reloading.
+2023-06-28 00:03:59,770 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-28 00:03:59,986 [DEBUG] urllib3.connectionpool: Starting new HTTPS connection (1): o4505425634328576.ingest.sentry.io:443
+2023-06-28 00:04:00,223 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:04:10,211 [INFO] django.utils.autoreload: /home/newuser/PycharmProjects/PythonDjango/mysite/shopapp/urls.py changed, reloading.
+2023-06-28 00:04:10,673 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-28 00:05:02,613 [INFO] django.utils.autoreload: /home/newuser/PycharmProjects/PythonDjango/mysite/shopapp/urls.py changed, reloading.
+2023-06-28 00:05:03,113 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-28 00:05:06,440 [INFO] django.utils.autoreload: /home/newuser/PycharmProjects/PythonDjango/mysite/shopapp/urls.py changed, reloading.
+2023-06-28 00:05:06,875 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-28 00:05:25,408 [INFO] django.utils.autoreload: /home/newuser/PycharmProjects/PythonDjango/mysite/shopapp/views.py changed, reloading.
+2023-06-28 00:05:25,954 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-28 00:05:35,845 [DEBUG] urllib3.connectionpool: Starting new HTTPS connection (1): o4505425634328576.ingest.sentry.io:443
+2023-06-28 00:05:36,120 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:05:36,203 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:05:39,918 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:05:40,084 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:05:40,216 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:05:40,371 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:05:40,676 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:05:40,845 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:05:40,991 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:06:35,987 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:07:44,818 [WARNING] django.request: Not Found: /shop/products/latest/feed/
+2023-06-28 00:07:44,904 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:07:44,988 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:08:27,625 [INFO] django.utils.autoreload: /home/newuser/PycharmProjects/PythonDjango/mysite/shopapp/views.py changed, reloading.
+2023-06-28 00:08:27,713 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:08:28,149 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-28 00:08:28,396 [DEBUG] urllib3.connectionpool: Starting new HTTPS connection (1): o4505425634328576.ingest.sentry.io:443
+2023-06-28 00:08:28,795 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:08:46,744 [INFO] django.utils.autoreload: /home/newuser/PycharmProjects/PythonDjango/mysite/shopapp/views.py changed, reloading.
+2023-06-28 00:08:47,172 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-28 00:08:47,357 [DEBUG] urllib3.connectionpool: Starting new HTTPS connection (1): o4505425634328576.ingest.sentry.io:443
+2023-06-28 00:08:47,605 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:08:50,469 [INFO] django.utils.autoreload: /home/newuser/PycharmProjects/PythonDjango/mysite/shopapp/views.py changed, reloading.
+2023-06-28 00:08:50,870 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-28 00:08:59,330 [INFO] django.utils.autoreload: /home/newuser/PycharmProjects/PythonDjango/mysite/shopapp/views.py changed, reloading.
+2023-06-28 00:08:59,736 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-28 00:09:12,261 [INFO] django.utils.autoreload: /home/newuser/PycharmProjects/PythonDjango/mysite/shopapp/views.py changed, reloading.
+2023-06-28 00:09:12,728 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-28 00:09:20,138 [INFO] django.utils.autoreload: /home/newuser/PycharmProjects/PythonDjango/mysite/shopapp/views.py changed, reloading.
+2023-06-28 00:09:20,552 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-28 00:09:37,088 [INFO] django.utils.autoreload: /home/newuser/PycharmProjects/PythonDjango/mysite/shopapp/views.py changed, reloading.
+2023-06-28 00:09:37,476 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-28 00:09:37,687 [DEBUG] urllib3.connectionpool: Starting new HTTPS connection (1): o4505425634328576.ingest.sentry.io:443
+2023-06-28 00:09:37,936 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:09:44,831 [INFO] django.utils.autoreload: /home/newuser/PycharmProjects/PythonDjango/mysite/shopapp/views.py changed, reloading.
+2023-06-28 00:09:45,204 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-28 00:09:45,388 [DEBUG] urllib3.connectionpool: Starting new HTTPS connection (1): o4505425634328576.ingest.sentry.io:443
+2023-06-28 00:09:45,616 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:09:55,590 [INFO] django.utils.autoreload: /home/newuser/PycharmProjects/PythonDjango/mysite/shopapp/views.py changed, reloading.
+2023-06-28 00:09:55,991 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-28 00:10:41,991 [INFO] django.utils.autoreload: /home/newuser/PycharmProjects/PythonDjango/mysite/shopapp/views.py changed, reloading.
+2023-06-28 00:10:42,361 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-28 00:10:42,572 [DEBUG] urllib3.connectionpool: Starting new HTTPS connection (1): o4505425634328576.ingest.sentry.io:443
+2023-06-28 00:10:42,815 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:10:59,956 [INFO] django.utils.autoreload: /home/newuser/PycharmProjects/PythonDjango/mysite/shopapp/views.py changed, reloading.
+2023-06-28 00:11:00,355 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-28 00:11:47,245 [INFO] django.utils.autoreload: /home/newuser/PycharmProjects/PythonDjango/mysite/shopapp/views.py changed, reloading.
+2023-06-28 00:11:47,681 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-28 00:12:04,602 [DEBUG] urllib3.connectionpool: Starting new HTTPS connection (1): o4505425634328576.ingest.sentry.io:443
+2023-06-28 00:12:04,750 [DEBUG] MARKDOWN: Successfully imported extension module "markdown.extensions.toc".
+2023-06-28 00:12:04,750 [DEBUG] MARKDOWN: Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2023-06-28 00:12:04,825 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:12:04,942 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:12:05,066 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:12:05,146 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:12:05,225 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:12:05,305 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:12:05,385 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:12:05,465 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:12:05,544 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:12:05,624 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:12:05,704 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:12:05,783 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:12:05,863 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:12:05,944 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:13:01,117 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:13:01,344 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:13:01,448 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:13:01,621 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:13:01,767 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:13:01,923 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:13:02,051 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:13:02,252 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:13:02,361 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:13:02,497 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:13:04,744 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:14:30,294 [INFO] django.utils.autoreload: /home/newuser/PycharmProjects/PythonDjango/mysite/shopapp/urls.py changed, reloading.
+2023-06-28 00:14:30,760 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2023-06-28 00:15:13,810 [DEBUG] urllib3.connectionpool: Starting new HTTPS connection (1): o4505425634328576.ingest.sentry.io:443
+2023-06-28 00:15:14,110 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:15:14,197 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:15:15,142 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:15:15,379 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:15:15,513 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:15:15,670 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:15:15,794 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:15:15,961 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:15:16,097 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:15:16,266 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:15:16,418 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:16:13,911 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:17:30,234 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:17:30,738 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:17:31,142 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:17:31,312 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:17:31,452 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:17:37,345 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:17:37,572 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:17:37,755 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:17:37,918 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:17:38,094 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:17:38,264 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:17:38,432 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:17:38,571 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:17:38,730 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:17:38,882 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:17:39,214 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:17:47,981 [WARNING] django.request: Not Found: /shop/products/latest/feed/
+2023-06-28 00:17:48,076 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:17:48,158 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:17:59,866 [WARNING] django.request: Not Found: /shop/products/latest/feed/
+2023-06-28 00:17:59,941 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:00,024 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:09,415 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:10,171 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:10,516 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:10,726 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:10,868 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:11,061 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:11,357 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:11,522 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:11,845 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:12,019 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:12,178 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:14,022 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:14,157 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:14,549 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:14,871 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:15,222 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:15,544 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:15,899 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:16,249 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:16,613 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:16,919 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:17,248 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:17,562 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:17,860 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:18,180 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:18,366 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:18,492 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:18,647 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:18,808 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:18,949 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:19,104 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:19,277 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:19,423 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:19,578 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:19,769 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:19,970 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:20,080 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:20,254 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:48,422 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:49,184 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:49,938 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:50,612 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:51,258 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:51,670 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:52,046 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:52,410 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:52,875 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:53,263 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:53,645 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:54,022 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:54,389 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:54,729 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:55,098 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:55,389 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:55,744 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:56,066 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:56,372 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:56,681 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:56,939 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:57,264 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:57,473 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:57,714 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:57,927 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:58,076 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:58,231 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:58,391 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:58,577 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:58,731 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:58,911 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:59,100 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:59,196 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:59,361 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:59,506 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:59,676 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:18:59,850 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:19:00,025 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:19:00,185 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:19:00,342 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:19:00,526 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:19:00,664 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:19:00,840 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:19:00,998 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:19:07,346 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:19:08,130 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:19:08,566 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:19:08,834 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:19:08,917 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:19:09,071 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:19:09,242 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:19:09,384 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:19:09,547 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:19:09,711 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:19:14,076 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:19:29,237 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:19:32,655 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:20:14,099 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:20:41,803 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:20:41,886 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:20:57,717 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:20:57,800 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:21:03,626 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:21:10,771 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:21:10,856 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:21:14,164 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:21:21,616 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:21:31,689 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:21:43,189 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:21:56,761 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:21:56,845 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:22:14,221 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:25:00,642 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:25:01,653 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:25:02,376 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:25:03,076 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:25:14,327 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:25:18,205 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:25:26,497 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:25:37,176 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:25:38,357 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:25:43,136 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:25:46,891 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:25:47,855 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:26:04,402 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:26:14,343 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:27:13,656 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:27:14,111 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:27:14,407 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:27:14,490 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:27:14,788 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:27:15,098 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:27:15,243 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:27:15,427 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:27:59,826 [WARNING] django.request: Not Found: /shop/products/latest/feed/
+2023-06-28 00:27:59,909 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:27:59,992 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
+2023-06-28 00:28:14,410 [DEBUG] urllib3.connectionpool: https://o4505425634328576.ingest.sentry.io:443 "POST /api/4505425640554496/envelope/ HTTP/1.1" 200 0
